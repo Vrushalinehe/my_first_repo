@@ -1,22 +1,30 @@
-# NAME
-# SURNAME
-### Geography
+# This is a large heading
 
-I study in the school of  Hogwarts
+## This is a smaller heading
 
-### Reading
+And as **imagination** bodies forth,
+The forms of things *unknown*, the poet’s pen,
+Turns them to shapes and gives to airy nothing,
+A local *habitation* and a **name**.
 
-Three of my fav books are:
+- This is
+- an unordered
+- list
 
-- *Harry Potter* by J.K.Rowling
-- *Shiva Triology* by Amish Tripathi
-- *The Last Don* by Mario Puzo
+1. This is
+2. an ordered
+3. list
 
-### Food
+Here is `some code` in the middle of a sentence.
 
-Last night I dreamt about eating in these restaurants:
+```
+This is
+a block
+of code
+```
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
+Here is how you make [a link](https://www.wikipedia.org/).
 
+![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+
+nano README.md
